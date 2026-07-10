@@ -1,3 +1,5 @@
+>This was a team project developed during [İstanbul Kodluyor].
+
 # Hotel Booking Cancellation Prediction
 
 **This project aims to predict hotel booking cancellations using machine learning techniques. We utilized a dataset available on Kaggle, sourced from [here](https://www.kaggle.com/datasets/youssefaboelwafa/hotel-booking-cancellation-prediction).**
